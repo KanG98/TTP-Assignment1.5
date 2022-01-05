@@ -1,0 +1,10 @@
+My name is Jason A. Charles, I dream about becoming a software engineer while being able to travel the world and integrate my profession with it. 
+Some of my hobbies consist of me playing the trumpet, playing basketball, working out, playing video games, coding, reading, and watching some of my favorite shows like Mr.Robot. 
+I am very passionate about code for some reason. 
+I first learned how to code in my senior year of high school when I took an AP cs principles class and we learned how to code in java script, but pretty simple stuff it was all in the program scratch which basically like a building block or legos but for code. 
+It was pretty exciting and it opened up a whole new world for me. My dream vacation is to go to Canada and see the Northern lights.
+
+Clone of About_Students from Ariel Avshalom:
+https://github.com/jasonxcharles/About_Students.git
+
+

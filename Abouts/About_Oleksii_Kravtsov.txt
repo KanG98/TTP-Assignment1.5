@@ -1,0 +1,5 @@
+Hey! My name is Oleksii Kravtsov, but I prefer just Alex. I like programming and I'm interested in becoming at least familiar with web development
+I'm new to using git and github, but it at least able to get the simple stuff done.
+I'm excited for this course as it's promising to teach me a lot of the practical things.
+I really like the idea of learning more from people who already had some experience with real world programming.
+Thank you for reading!
