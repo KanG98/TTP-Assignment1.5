@@ -1,11 +1,13 @@
 <html>
     <head>
-    <script src="./../scripts/getAbout.js">
-    </script>
+        <script src='./../scripts/getAbout.js'></script>
     </head>
     <body>
-    <input type='file' accept='text/plain' multiple="multiple" onchange='openFiles(event)'><br>
-    <div id='output'>
-    </div>
+        <input type='file' accept='text/plain' multiple='multiple' onchange='openFiles(event)'>
+            <div id='all-file'></div>
+        <button onclick='randomPickAbout()'>Random Pick</button>
+            <div id='random-name'></div>
+            <div id='random-text'></div>
+
     </body>
-    </html>
+</html>
